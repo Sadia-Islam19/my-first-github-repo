@@ -8,8 +8,12 @@ div{
 span{
     color: blue ;
 }
-img{
+/*img{
     height: 827px;
     width: 1360px;
     padding: 5px;
+}*/
+#im{
+    width: 1176px;
+    margin-left: 100px;
 }
